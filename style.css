@@ -1,0 +1,36 @@
+body {
+    width: 960px;
+    margin: 0 auto 15px auto;
+}
+
+img {
+    width: 160px;
+    display: block;
+    margin: 15px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.header {
+    font-size: 2em;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 15px 0;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.append img {
+    display: inline-block;
+}
+
+#valP {
+    font-size: 4em;
+}
